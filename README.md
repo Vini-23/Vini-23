@@ -3,14 +3,13 @@
 ## Um pouco de mim 
 Olá, eu sou o Vinicius, mas pode me chamar de __Vini__. Vou contar um pouco da minha história para vocês:
 
-- Desde que conheci a área de programação eu me apaixonei Não paro de querer aprender e usar isso cada vez mais na minha vida, inclusive pretendo seguir carreira nessa área. 
+- Desde que conheci a área de programação eu me apaixonei. Não paro de querer aprender e usar isso cada vez mais na minha vida, inclusive pretendo seguir carreira nessa área. 
 Apesar de não ter muita experiência, sigo estudando e praticando diariamente, criando pequenos projetos em casa e tentando ajudar outras pessoas a resolver problemas em seus códigos.
 Atualmente eu me familiarizo mais com as áreas de Back-end e Data Science, tanto que dedico meus estudos para elas, mas não excluo as outras áreas.
 
 - 📚 Sou formado em Biomedicina e possuo pós-graduação em Bioinformática
 - 🔬 Atualmente estou trabalhando como técnico de laboratório no Grupo Fleury
 - 🌱 Por mas que minha pós tenha acabado, continuo estudando e praticando programação diariamente, e atualmente estou aprendendo a linguagem __Python__
-- 🎈 Adoro ler livros, jogar video game, sair pra comer e pretendo aprender a tocar piano
 - 📫 Meus contatos: vinicius.vianna@hotmail.com ou linkedin.com/in/vinícius-minale-vianna
 
 ## Linguagens e Ferramentas
