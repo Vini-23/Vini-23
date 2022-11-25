@@ -8,8 +8,8 @@ Apesar de não ter muita experiência, sigo estudando e praticando diariamente, 
 Atualmente eu me familiarizo mais com as áreas de Back-end e Data Science, tanto que dedico meus estudos para elas, mas não excluo as outras áreas.
 
 - 📚 Sou formado em Biomedicina e possuo pós-graduação em Bioinformática
-- 🔬 Atualmente estou trabalhando como técnico de laboratório no Grupo Fleury
-- 🌱 Por mas que minha pós tenha acabado, continuo estudando e praticando programação diariamente, e atualmente estou aprendendo a linguagem __Python__
+- 🔬 Atualmente estou trabalhando como __Analista de QA__ de laboratório no Grupo Fleury
+- 🌱 Por mas que minha pós tenha acabado, continuo estudando e praticando programação diariamente, e atualmente estou aprendendo as linguagens de __Python e JavaScript__
 - 📫 Meus contatos: vinicius.vianna@hotmail.com ou linkedin.com/in/vinícius-minale-vianna
 
 ## Linguagens e Ferramentas
