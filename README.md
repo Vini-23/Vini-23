@@ -13,7 +13,9 @@ Atualmente eu me familiarizo mais com as áreas de Back-end e Data Science, tant
 - 📫 Meus contatos: vinicius.vianna@hotmail.com ou linkedin.com/in/vinícius-minale-vianna
 
 ## Linguagens e Ferramentas
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50"/>     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50"/>   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50"/>    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" height="50"/>
+
+
 
 <div>
 <a href="https://github.com/seu-usuário-aqui">
