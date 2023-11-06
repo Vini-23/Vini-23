@@ -20,7 +20,7 @@ Olá, eu sou o Vinicius, mas pode me chamar de __Vini__. Vou contar um pouco da 
 
 ## Linguagens e Ferramentas         
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50"/>   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50"/>   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50"/>
-
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 [(https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)
 [(https://skillicons.dev/icons?i=vscode,postman,js)](https://skillicons.dev)
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" height="50"/>
