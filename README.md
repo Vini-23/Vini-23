@@ -19,8 +19,7 @@ Olá, eu sou o Vinicius, mas pode me chamar de __Vini__. Vou contar um pouco da 
  - Conhecimento em HTML, CSS, JS e SQL.
 
 ## Linguagens e Ferramentas         
-[![My Skills](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=vscode,postman)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,vscode,postman,gitlab)](https://skillicons.dev)
 
 ## 🤝 Vamos fazer conexões:
 Se você tiver alguma dúvida sobre o que é um QA ou se estiver a procura de um profissional da área, vamos conversar!
